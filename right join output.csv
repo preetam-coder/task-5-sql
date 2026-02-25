@@ -1,0 +1,5 @@
+"customer_id","customer_name","city","order_id","order_date","amount"
+1,"Rahul","Bangalore",1,"2026-02-01","1500.00"
+1,"Rahul","Bangalore",2,"2026-02-05","2500.00"
+2,"Amit","Mumbai",3,"2026-02-10","1800.00"
+3,"Sneha","Chennai",4,"2026-02-12","2200.00"

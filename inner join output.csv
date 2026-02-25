@@ -1,0 +1,5 @@
+customer_id,customer_name,city,order_id,order_date,amount
+1,Rahul,Bangalore,1,01-02-2026,1500
+1,Rahul,Bangalore,2,05-02-2026,2500
+2,Amit,Mumbai,3,10-02-2026,1800
+3,Sneha,Chennai,4,12-02-2026,2200
